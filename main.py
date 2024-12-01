@@ -1,12 +1,12 @@
 import random
 
 while True:
-    min_num = int(input("最小値を入力してください："))
-    max_num = int(input("最大値を入力してください："))
+    min_num = int(input("最小数を入力してください："))
+    max_num = int(input("最大数を入力してください："))
     if min_num < max_num:
         break
     else:
-        print("\n最小値 < 最大値になるように入力してください\n")
+        print("\n最小数 < 最大数になるように入力してください\n")
 
 answer = random.randint(min_num, max_num)
 print(answer)
