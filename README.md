@@ -1,7 +1,5 @@
 # Guess-the-number-game
 
-## Recurisonバックエンドプロジェクト1
-
 ### 概要
 
 数当てゲームのプログラムです
